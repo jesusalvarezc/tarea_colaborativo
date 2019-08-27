@@ -1,3 +1,9 @@
 "Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 
 Jesús Alvarez Castellanos
+Oscar Eduardo Flores Hernández
+
+El repositorio remoto actualizado se puede encontrar en las url's: 
+
+https://github.com/jesusalvarezc/tarea_colaborativo
+https://github.com/OscarFlores-IFi/tarea_colaborativo
